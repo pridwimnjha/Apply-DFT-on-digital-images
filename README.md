@@ -115,6 +115,7 @@ fprintf('Euclidean Distance: %.2f\n', distance);
 * **Input:**
 
   * Original Image (`EXP8_IVP.jpg`)
+    
   * Query Image (`EXP6_IMG.jpg`)
 
 * **Output:**
@@ -122,6 +123,8 @@ fprintf('Euclidean Distance: %.2f\n', distance);
   * Fourier transform representation.
   * Extracted features.
   * Euclidean distance score for similarity.
+
+<img width="632" height="357" alt="image" src="https://github.com/user-attachments/assets/33e8e9f7-10d8-4bf0-867e-b8fa18606a21" />
 
 ---
 
