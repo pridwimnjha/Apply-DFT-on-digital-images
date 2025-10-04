@@ -76,7 +76,7 @@ end
 databaseFeature = [I1(:); R1(:); I2(:); R2(:)]';
 
 % Query Image
-query_img = imread("EXP6_IMG.jpg");
+query_img = imread("EXP_6_IMG.jpeg");
 query_gray = rgb2gray(query_img);
 query_resized = imresize(query_gray, [512, 512]);
 query_resized = double(query_resized);
